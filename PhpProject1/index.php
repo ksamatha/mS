@@ -7,6 +7,7 @@
     <body>
         <?php
          echo "first commit from netBeans";
+         echo "first commit from Git";
         ?>
     </body>
 </html>
