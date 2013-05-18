@@ -10,6 +10,7 @@
          echo "first commit from Git";
          echo "2nd commit from netBeans";
          echo "3rd commit from netBeans";
+         echo "2nd commit from Git";
         ?>
     </body>
 </html>
