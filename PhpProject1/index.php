@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+         echo "first commit from netBeans";
         ?>
     </body>
 </html>
